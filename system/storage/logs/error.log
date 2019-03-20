@@ -1,0 +1,82 @@
+2019-03-14 15:49:32 - PHP Notice:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: 1 extraneous bytes before marker 0xd9
+ in C:\OSPanel\domains\petshop.loc\system\library\image.php on line 26
+2019-03-14 15:49:35 - PHP Notice:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: 1 extraneous bytes before marker 0xd9
+ in C:\OSPanel\domains\petshop.loc\system\library\image.php on line 26
+2019-03-14 16:05:46 - PHP Notice:  Undefined index: recurring_id in C:\OSPanel\domains\petshop.loc\admin\model\catalog\product.php on line 120
+2019-03-14 16:05:46 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OSPanel\domains\petshop.loc\admin\controller\startup\error.php:34) in C:\OSPanel\domains\petshop.loc\system\library\response.php on line 12
+2019-03-14 16:05:54 - PHP Notice:  Undefined index: recurring_id in C:\OSPanel\domains\petshop.loc\admin\model\catalog\product.php on line 120
+2019-03-14 16:05:54 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OSPanel\domains\petshop.loc\admin\controller\startup\error.php:34) in C:\OSPanel\domains\petshop.loc\system\library\response.php on line 12
+2019-03-14 16:07:00 - PHP Notice:  Undefined index: recurring_id in C:\OSPanel\domains\petshop.loc\admin\model\catalog\product.php on line 274
+2019-03-14 16:07:00 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OSPanel\domains\petshop.loc\admin\controller\startup\error.php:34) in C:\OSPanel\domains\petshop.loc\system\library\response.php on line 12
+2019-03-15 16:29:59 - PHP Notice:  Undefined index: recurring_id in C:\OSPanel\domains\petshop.loc\admin\model\catalog\product.php on line 274
+2019-03-15 16:29:59 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OSPanel\domains\petshop.loc\admin\controller\startup\error.php:34) in C:\OSPanel\domains\petshop.loc\system\library\response.php on line 12
+2019-03-15 16:30:21 - PHP Notice:  Undefined index: recurring_id in C:\OSPanel\domains\petshop.loc\admin\model\catalog\product.php on line 274
+2019-03-15 16:30:21 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OSPanel\domains\petshop.loc\admin\controller\startup\error.php:34) in C:\OSPanel\domains\petshop.loc\system\library\response.php on line 12
+2019-03-15 16:30:39 - PHP Notice:  Undefined index: recurring_id in C:\OSPanel\domains\petshop.loc\admin\model\catalog\product.php on line 274
+2019-03-15 16:30:39 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OSPanel\domains\petshop.loc\admin\controller\startup\error.php:34) in C:\OSPanel\domains\petshop.loc\system\library\response.php on line 12
+2019-03-18 13:04:45 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:04:45 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 13:04:45 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:04:45 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 13:04:59 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:04:59 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 13:08:04 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:08:04 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 13:17:39 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:17:39 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 13:21:31 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:21:31 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 13:27:09 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:27:09 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 13:27:34 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:27:34 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 13:30:21 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:30:21 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 13:31:15 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:31:15 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 13:31:23 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 13:31:23 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 14:41:26 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 14:41:26 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 14:44:26 - PHP Notice:  Undefined variable: text_information in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 83
+2019-03-18 14:44:26 - PHP Notice:  Undefined variable: informations in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\header.tpl on line 88
+2019-03-18 14:47:32 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/system): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-18 14:47:32 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/view/template): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-18 14:47:32 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/view): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-18 14:47:32 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/controller): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-18 14:47:32 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 15:49:12 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/system/library): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 15:49:12 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/system): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 15:49:12 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/catalog/controller): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 15:49:12 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/catalog): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 15:49:12 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/view/template): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 15:49:12 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/view): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 15:49:13 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/controller): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 15:49:13 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 16:11:42 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/system/library): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 16:11:42 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/system): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 16:11:42 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/catalog/controller): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 16:11:42 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/catalog): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 16:11:42 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/view/template): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 16:11:42 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/view): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 16:11:42 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/controller): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 16:11:42 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 18:08:37 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/system): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 18:08:37 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/catalog/controller): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 18:08:37 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/catalog): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 18:14:52 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/system): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 18:14:52 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/catalog/controller): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 18:14:52 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/catalog): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 18:14:52 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/view/template): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 18:14:52 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/view): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 18:14:52 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin/controller): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-19 18:14:52 - PHP Warning:  rmdir(C:/OSPanel/domains/petshop.loc/system/storage/modification/admin): Directory not empty in C:\OSPanel\domains\petshop.loc\admin\controller\extension\modification.php on line 105
+2019-03-20 8:56:17 - PHP Notice:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: 1 extraneous bytes before marker 0xd9
+ in C:\OSPanel\domains\petshop.loc\system\library\image.php on line 26
+2019-03-20 11:22:43 - PHP Notice:  Undefined variable: logo in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\footer.tpl on line 10
+2019-03-20 11:22:43 - PHP Notice:  Undefined variable: telephone in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\footer.tpl on line 58
+2019-03-20 11:22:43 - PHP Notice:  Undefined variable: email in C:\OSPanel\domains\petshop.loc\catalog\view\theme\pettheme\template\common\footer.tpl on line 77
+2019-03-20 12:21:52 - PHP Notice:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: 1 extraneous bytes before marker 0xd9
+ in C:\OSPanel\domains\petshop.loc\system\library\image.php on line 26
+2019-03-20 12:22:01 - PHP Notice:  imagecreatefromjpeg(): gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: 1 extraneous bytes before marker 0xd9
+ in C:\OSPanel\domains\petshop.loc\system\library\image.php on line 26

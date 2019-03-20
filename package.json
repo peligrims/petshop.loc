@@ -1,0 +1,34 @@
+{
+  "name": "petshop.loc",
+  "version": "1.0.0",
+  "description": "\"# petshop.loc\"",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peligrims/petshop.loc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peligrims/petshop.loc/issues"
+  },
+  "homepage": "https://github.com/peligrims/petshop.loc#readme",
+  "devDependencies": {
+    "bourbon": "^5.1.0",
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-util": "^3.0.8",
+    "node-bourbon": "^4.2.8",
+    "vinyl-ftp": "^0.6.1"
+  },
+  "dependencies": {}
+}
